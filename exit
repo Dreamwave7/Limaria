@@ -1,0 +1,382 @@
+[33mcommit 2b5345fa90264c97122cec39e6eb727b0934614a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Thu Jan 9 15:12:27 2025 +0200
+
+    ...
+
+[33mcommit e4d2d58d339c8ecb113df6c43946576defcb2dec[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Thu Jan 9 13:25:57 2025 +0200
+
+    minor fix
+
+[33mcommit 9e2c2382256d20babbdd8ec3b8643600e5917804[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Wed Jan 8 16:32:41 2025 +0200
+
+    add sitemap
+
+[33mcommit d03d8d8be1b2de81f2afbf391f6b434ae7307ae8[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Wed Jan 8 14:37:31 2025 +0200
+
+    add feedback table/ page to adminpanel
+
+[33mcommit 546c3a72afa14e2092aea7e2db52ddca48417fd1[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Wed Jan 8 10:24:08 2025 +0200
+
+    add titles / descriptions
+
+[33mcommit 093a279fd92790797b783e96787bd1b04415a621[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Wed Jan 8 09:49:17 2025 +0200
+
+    minor fix
+
+[33mcommit f421e1e0bee0ba1d2d5ead539076443214e1bb43[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Wed Jan 8 09:37:54 2025 +0200
+
+    minor fix
+
+[33mcommit 84c3870d7baacc08d9aad98bd98e481a2e92ba01[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Mon Jan 6 22:23:29 2025 +0200
+
+    minor fix
+
+[33mcommit d0c4ea7dccd85a3d8e783bd79e2e3de4422d4a4b[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Mon Jan 6 16:42:16 2025 +0200
+
+    minor fix
+
+[33mcommit 40654b6772bc01a177dd107d4c0a0b8d355a7726[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Sun Jan 5 22:56:58 2025 +0200
+
+    customize admin panel/ add auth
+
+[33mcommit 1e170de99191dda7239eaeed8de871185a4f48b9[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Sun Jan 5 22:56:44 2025 +0200
+
+    customize admin panel/ add auth
+
+[33mcommit a378be20f2894dc78d2148ce1d64079cf2ee9b29[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Fri Jan 3 15:07:59 2025 +0200
+
+    customize admin panel
+
+[33mcommit 182a6b951e41b346412a23a4c351ac7a87ac33cf[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Fri Jan 3 14:28:44 2025 +0200
+
+    customize admin panel
+
+[33mcommit 5b80bf7ad7e7af56309a7587946486300223146c[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Thu Jan 2 14:10:16 2025 +0200
+
+    customize admin panel
+
+[33mcommit 9a62a850f86c03e753e945ae4033eac420a9334c[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Thu Jan 2 13:17:37 2025 +0200
+
+    customize admin panel
+
+[33mcommit 6f850a6f0aa883a101c15e9fd33903e8e3227c7a[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Thu Jan 2 11:06:02 2025 +0200
+
+    customize admin panel
+
+[33mcommit eea79d40671f3bfe0a35df91b4226c99117d1fc7[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Thu Jan 2 11:03:54 2025 +0200
+
+    customize admin panel
+
+[33mcommit 6cec1cff0c65e42c15ea8cf8071357a77cfd9e2c[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Mon Dec 30 00:58:44 2024 +0200
+
+    customize admin panel
+
+[33mcommit 33ac4f9de7b04d21b69a3765381ee240547164bd[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Mon Dec 30 00:56:52 2024 +0200
+
+    customize admin panel
+
+[33mcommit 3e03abc690f7bc4f4d50e7048fff04a022b45597[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Sun Dec 29 03:55:42 2024 +0200
+
+    customize admin panel
+
+[33mcommit ec39a5460e39b1c5d7ec5236f7940f50433c2618[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Sat Dec 28 02:20:58 2024 +0200
+
+    customize admin panel
+
+[33mcommit 23d00e0a9b60554b5b9652baab77cab3ba31192f[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Fri Dec 27 12:11:56 2024 +0200
+
+    add property/fillable to tables
+
+[33mcommit 393c6d9086fb4d894334d60b39e2e5b3791cccaa[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Fri Dec 27 10:10:27 2024 +0200
+
+    fix
+
+[33mcommit 880f8b878b646138814746fbc048023975dc58ce[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Fri Dec 27 01:41:49 2024 +0200
+
+    add tables
+
+[33mcommit 05830e7b190a0b027fb051a533175dc69c637085[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Thu Dec 26 23:51:44 2024 +0200
+
+    add Directions / Positions tables
+
+[33mcommit 81627e7df22013b59442851a709676054ff92e6c[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Thu Dec 26 15:56:25 2024 +0200
+
+    add admin panel
+
+[33mcommit 0441beb926566c112a12fa719bdd683f634315fc[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Thu Dec 26 12:58:30 2024 +0200
+
+    add download price button
+
+[33mcommit bf282bd84d4db6bf4467ef0206dace7a3fde6ccc[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Wed Dec 25 23:46:25 2024 +0200
+
+    change png to webp
+
+[33mcommit 83bf7f2afa9120f29349a4549672f704497247cc[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Wed Dec 25 23:46:14 2024 +0200
+
+    change png to webp
+
+[33mcommit 13540f70bd009ec5bab71adac323c1e04b655fdc[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Tue Dec 24 22:07:21 2024 +0200
+
+    change table
+
+[33mcommit 8fe529c9dfd3506e2269d15cde8fdb1d1a6955ba[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Tue Dec 24 16:56:28 2024 +0200
+
+    change table
+
+[33mcommit 644bacd924ae1f63464fb6e8e8e7a9a6f4e4e25e[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Tue Dec 24 01:09:02 2024 +0200
+
+    minor fix
+
+[33mcommit 35619f4f16b0a2dbebd2085b3590ada8d2847541[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Mon Dec 23 23:58:42 2024 +0200
+
+    minor fix
+
+[33mcommit 5ef4748e539b18fd6010dc19f6e9ec8fc3feba63[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Mon Dec 23 22:48:44 2024 +0200
+
+    Revert "exitpre pull"
+    
+    This reverts commit 1780ac5a7e9f163bab00a2a1560ec91640d52d6a.
+
+[33mcommit 611b8c0641e1edd05a2c8558e16254cf7d522c51[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Mon Dec 23 22:48:38 2024 +0200
+
+    Revert "minor fix"
+    
+    This reverts commit 97983e6b829f1d98c53de670b8c42e8acdfeda44.
+
+[33mcommit 66e42b3598a1f8ab8fd411427adcbbe4fa225e39[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Mon Dec 23 22:48:36 2024 +0200
+
+    Revert "style tables"
+    
+    This reverts commit a7600ec86cd1575b2b5b96302330642a70eee9b0.
+
+[33mcommit 97983e6b829f1d98c53de670b8c42e8acdfeda44[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Mon Dec 23 22:24:33 2024 +0200
+
+    minor fix
+
+[33mcommit 0fceb814d4fbd503b8f97da11b480fcac1420489[m
+Merge: 65f901d a7600ec
+Author: Sharingan <dima190179@gmail.com>
+Date:   Mon Dec 23 20:21:55 2024 +0000
+
+    Merge branch 'tables' into 'main'
+    
+    Tables
+    
+    See merge request dima190179/limaria!1
+
+[33mcommit a7600ec86cd1575b2b5b96302330642a70eee9b0[m[33m ([m[1;31morigin/tables[m[33m)[m
+Author: Oleg <oleh.androsenko@vidigroup.com>
+Date:   Mon Dec 23 20:10:08 2024 +0200
+
+    style tables
+
+[33mcommit 1780ac5a7e9f163bab00a2a1560ec91640d52d6a[m
+Author: Oleg <oleh.androsenko@vidigroup.com>
+Date:   Thu Dec 19 17:58:23 2024 +0200
+
+    exitpre pull
+
+[33mcommit 65f901d799b047e533cb66b55ddd0fb09bdbddda[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Mon Dec 23 17:17:54 2024 +0200
+
+    minor fix
+
+[33mcommit 54f2aa8dbe74cb1bc76ea0da9b896afa54f3b5f8[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Fri Dec 20 20:06:01 2024 +0200
+
+    fix table view on phone
+
+[33mcommit a38a82347af7ac5a1e5e1b4847e2eb81d552b438[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Fri Dec 20 17:31:32 2024 +0200
+
+    some fix
+
+[33mcommit 0bdb6ef55c919eb4b18a7c27017a2f2f0eb162a9[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Fri Dec 20 15:39:16 2024 +0200
+
+    add save form data
+
+[33mcommit ac6b6b89d1ef88b92003bc7c0eab94d491e5713d[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Fri Dec 20 13:39:01 2024 +0200
+
+    ...
+
+[33mcommit c177c72ec96b74c3885a8fbacc5780ef0b5d18a4[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Fri Dec 20 13:36:43 2024 +0200
+
+    ....
+
+[33mcommit af98c8def81f23593f89bc1a1ddc15fb6583ce6e[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Fri Dec 20 12:47:28 2024 +0200
+
+    ....
+
+[33mcommit fed61199c9c36d03a06a96c9772298bc32c5b476[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Fri Dec 20 12:46:04 2024 +0200
+
+    change feedback
+
+[33mcommit b390f8626aa68d1876a5717727c916e933b5a5f1[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Fri Dec 20 01:11:05 2024 +0200
+
+    add vet/food pages . make translate
+
+[33mcommit 82672b5c9602bd3cce0b996dc69f62dab7c1e4f2[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Thu Dec 19 17:32:54 2024 +0200
+
+    add content to med page
+
+[33mcommit 0494d7dc1ea5587770df4721ba783df797a803ca[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Thu Dec 19 16:52:34 2024 +0200
+
+    add medical page
+
+[33mcommit dfdda23e68a007efe43fed9d20f02b69c2cef2ba[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Thu Dec 19 16:01:59 2024 +0200
+
+    fixx
+
+[33mcommit 5b3f909273574f4d24245dc8817f13501b57680a[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Thu Dec 19 16:00:47 2024 +0200
+
+    fix
+
+[33mcommit 48c77701413ca81e3bb5dcb837f8a2c06ef461a2[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Thu Dec 19 13:26:02 2024 +0200
+
+    layouts/main
+
+[33mcommit d18b61bd3e7c9f4d4ed8b8b56ffec24a617a5877[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Thu Dec 19 11:59:54 2024 +0200
+
+    fix blade/ add Gmap
+
+[33mcommit d686eda21a2e4dbf8e76e4ee7ce7daafb464c980[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Wed Dec 18 01:24:26 2024 +0200
+
+    add contact page
+
+[33mcommit 0612ec68a699c1eb7319c2b61da75a73eac2fb71[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Tue Dec 17 16:15:33 2024 +0200
+
+    minor fix
+
+[33mcommit 6daa7a3e8c76d85681d5d8f622706ce21f21b6e1[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Tue Dec 17 14:56:04 2024 +0200
+
+    fix main page
+
+[33mcommit 0586389f605e2544910ca66962f0d928c3985bbc[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Tue Dec 17 12:17:49 2024 +0200
+
+    add main page
+
+[33mcommit ed2aa1accf2197110780d4d0ab05fd4687ad7202[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Tue Dec 17 10:45:32 2024 +0200
+
+    install bootstrap
+
+[33mcommit ef4f91b864372583bf76eda917b4b595543b1722[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Mon Dec 16 23:39:25 2024 +0200
+
+    test commit
+
+[33mcommit c4dcb89b01ea5533e0d3ec9574d5384fb0cf41bd[m
+Author: Dreamwave7 <dima190179@gmail.com>
+Date:   Mon Dec 16 22:30:47 2024 +0200
+
+    Initial commit

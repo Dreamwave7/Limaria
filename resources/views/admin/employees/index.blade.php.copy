@@ -1,0 +1,87 @@
+@extends('admin.layouts.main')
+
+
+@section('content')
+
+<main class="app-main">
+
+
+
+    <div style="width: 900px; margin-left: 200px; margin-top: 100px" >
+        <h1 style="text-align: center;" >Існуючі працівники</h1>
+        <a href="{{ route('admin.teams.create') }}" class="btn btn-warning" style="text-decoration: none;">
+            Створити нового працівника
+        </a>
+
+        <a href="/check-photo" class="btn btn-warning" style="text-decoration: none;">
+            check photo
+        </a>
+
+
+
+        <table class="table">
+            <thead class="thead-dark">
+            <tr>
+                <th scope="col">id</th>
+                <th scope="col">first_name</th>
+                <th scope="col">last_name</th>
+                <th scope="col">description</th>
+                <th scope="col">phone</th>
+                <th scope="col">image</th>
+                <th scope="col">position</th>
+                <th scope="col">action</th>
+            </tr>
+            </thead>
+            <tbody>
+
+            @foreach($teamData as $member)
+                <tr>
+                    <th scope="row">{{$member->id}}</th>
+                    <td>{{$member->first_name}}</td>
+                    <td>{{$member->last_name}}</td>
+                    <td>{{$member->description}}</td>
+                    <td>{{$member->phone->phone}}</td>
+                    <td>{{$member->image}}</td>
+                    <td>{{$member->position->name}}</td>
+                    <td>
+                        <form action="{{route('admin.teams.destroy',$member->id)}}" method="post">
+                            @csrf
+                            @method('delete')
+                            <button type="submit">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            @endforeach
+            </tbody>
+        </table>
+
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</main>
+
+
+@endsection

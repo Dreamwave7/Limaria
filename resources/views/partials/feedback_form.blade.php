@@ -44,7 +44,7 @@
                 @enderror
             </div>
         </div>
-        <div class="col-md-6 wow-outer">
+        <div class="col-md-12 wow-outer">
             <div class="form-wrap wow fadeSlideInUp">
                 <label class="form-label-outside" for="contact-message">Ваше запитання *</label>
                 <textarea class="form-input" id="contact-message" name="message" required>{{ old('message') }}</textarea>

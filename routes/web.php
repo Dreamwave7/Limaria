@@ -13,6 +13,8 @@ require __DIR__.'/admin.php';
 
 Route::get("/", [HomePageController::class,"index"])->name("home.index");
 
+Route::get("/second", [HomePageController::class,"indexSecond"])->name("home.indexSecond");
+
 Route::get("/contacts", [ContactController::class,"index"])->name("contact.index");
 
 Route::get("/medical-price", [PriceController::class,"medical"])->name("medical.index");

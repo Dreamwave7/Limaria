@@ -11,4 +11,9 @@ class HomePageController extends Controller
     {
         return view("home.index");
     }
+
+    public function indexSecond ()
+    {
+        return view("home.index_second");
+    }
 }

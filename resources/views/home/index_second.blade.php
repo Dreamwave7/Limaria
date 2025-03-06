@@ -21,21 +21,21 @@
                                     </div>
 
                                     <div class="wow-outer p">
-                                        <p class="wow fadeInDown" data-wow-delay=".2s">Ми пропонуємо:</p>
-                                        <ol class="custom-list">
-                                            <li>
-                                                <p class="wow fadeInDown" data-wow-delay=".2s">Надзвичайну точність і швидкість досліджень.</p>
-                                            </li>
+                                        <p class="wow fadeInDown" data-wow-delay=".2s">ТОВ «Лімарія» — інноваційний науково-діагностичний центр, одним із напрямків якого є проведення якісних мікробіологічних досліджень у галузі медицини, ветеринарії та дослідження харчових продуктів і сировини. Центр має досвідчених спеціалістів, сучасне мікробіологічне обладнання та кріобанк, а також базу для проведення наукових та експериментальних досліджень.</p>
+{{--                                        <ol class="custom-list">--}}
+{{--                                            <li>--}}
+{{--                                                <p class="wow fadeInDown" data-wow-delay=".2s">Надзвичайну точність і швидкість досліджень.</p>--}}
+{{--                                            </li>--}}
 
-                                            <li>
-                                                <p class="wow fadeInDown" data-wow-delay=".2s">Команду висококваліфікованих фахівців.</p>
-                                            </li>
+{{--                                            <li>--}}
+{{--                                                <p class="wow fadeInDown" data-wow-delay=".2s">Команду висококваліфікованих фахівців.</p>--}}
+{{--                                            </li>--}}
 
-                                            <li>
-                                                <p class="wow fadeInDown" data-wow-delay=".2s">Персоналізований підхід до кожного клієнта</p>
-                                            </li>
+{{--                                            <li>--}}
+{{--                                                <p class="wow fadeInDown" data-wow-delay=".2s">Персоналізований підхід до кожного клієнта</p>--}}
+{{--                                            </li>--}}
 
-                                        </ol>
+{{--                                        </ol>--}}
                                         <!-- </div><a class="button button-primary button-winona wow fadeIn" href="#">Дiзнатись бiльше</a> -->
                                     </div>
                                 </div>
@@ -311,7 +311,7 @@
                 <p class="wow-outer"><span class="text-width-1 wow slideInDown">Ознайомтесь з переліком наших мікробіологічних досліджень та інших високоякісних наукових рішень, які ми пропонуємо нашим клієнтам по всьому світу з моменту нашого заснування.</span></p>
                 <div class="row row-30 justify-content-center">
                     <div class="col-sm-6 col-lg-5 col-xl-4 wow-outer">
-                        <!-- Thumbnail Modern--><a class="thumbnail-modern wow slideInLeft" href="{{ route('medical.index') }}"><img loading="lazy" class="thumbnail-modern-image" src="{{asset('images/grid-layout-1-370x256.webp')}}" alt="Медичне обладнання" width="370" height="256"/>
+                        <!-- Thumbnail Modern--><a class="thumbnail-modern wow slideInLeft" href="{{ route('medical.index') }}"><img loading="lazy" class="thumbnail-modern-image" src="{{asset('images/photo_2025-03-06_11-57-19.webp')}}" alt="Медичне обладнання" width="370" height="256"/>
                             <div class="thumbnail-modern-caption">
                                 <p class="thumbnail-modern-title">Медична діагностика</p>
                                 <p class="thumbnail-modern-text">Ми проводимо точні мікробіологічні дослідження для складних випадків, забезпечуючи швидкі та достовірні результати. Досліджуємо зразки крові, сечі, мокротиння, ранового матеріалу та іншого біологічного матеріалу.</p>
@@ -319,7 +319,7 @@
                             <div class="thumbnail-modern-dummy"></div></a>
                     </div>
                     <div class="col-sm-6 col-lg-5 col-xl-4 wow-outer">
-                        <!-- Thumbnail Modern--><a class="thumbnail-modern wow slideInLeft" href="{{ route("veterinary.index") }}"><img loading="lazy" class="thumbnail-modern-image" src="{{asset('images/grid-layout-2-370x256.webp')}}" alt="Взяття зразку для аналізу з тварини" width="370" height="256"/>
+                        <!-- Thumbnail Modern--><a class="thumbnail-modern wow slideInLeft" href="{{ route("veterinary.index") }}"><img loading="lazy" class="thumbnail-modern-image" src="{{asset('images/photo_2025-03-06_11-57-16.webp')}}" alt="Взяття зразку для аналізу з тварини" width="370" height="256"/>
                             <div class="thumbnail-modern-caption">
                                 <p class="thumbnail-modern-title">Ветеринарна діагностика</p>
                                 <p class="thumbnail-modern-text">Спеціалізовані мікробіологічні аналізи для здоров'я ваших тварин. Виявлення збудників хвороб з високою точністю гарантує ефективне лікування для домашніх улюбленців і сільськогосподарських тварин.</p>
@@ -327,7 +327,7 @@
                             <div class="thumbnail-modern-dummy"></div></a>
                     </div>
                     <div class="col-sm-6 col-lg-5 col-xl-4 wow-outer">
-                        <a class="thumbnail-modern wow slideInLeft" href="{{ route('food.index') }}"><img loading="lazy" class="thumbnail-modern-image" src="{{asset('images/grid-layout-3-370x256.webp')}}" alt="Дослідження продуктів в лабораторії" width="370" height="256"/>
+                        <a class="thumbnail-modern wow slideInLeft" href="{{ route('food.index') }}"><img loading="lazy" class="thumbnail-modern-image" src="{{asset('images/photo_2025-03-06_11-57-10.webp')}}" alt="Дослідження продуктів в лабораторії" width="370" height="256"/>
                             <div class="thumbnail-modern-caption">
                                 <p class="thumbnail-modern-title">Дослідження харчових продуктів</p>
                                 <p class="thumbnail-modern-text">Забезпечуємо безпеку харчових продуктів завдяки сучасним мікробіологічним дослідженням. Ми допомагаємо контролювати якість і відповідність продукції найвищим стандартам.</p>
@@ -366,7 +366,7 @@
         <section class="section section-decor parallax-scene-js">
             <div class="section-halfscreen">
                 <div class="section-halfscreen-inner">
-                    <div class="section-halfscreen-image wow fadeIn"  style= "background-image: url({{asset('images/GM4A0598.jpg')}} );"></div>
+                    <div class="section-halfscreen-image wow fadeIn"  style= "background-image: url({{asset('images/GM4A0598.webp')}} );"></div>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-6 col-lg-5">

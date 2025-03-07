@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Config;
+use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Mail;
 
 class ContactController extends Controller
@@ -17,13 +18,14 @@ class ContactController extends Controller
 
     public function test()
     {
+        dump("hello 1111");
         Config::set('mail.mailers.smtp', [
             'transport'  => 'smtp',
             'host'       => 'smtp.zoho.com',
             'port'       => 465,
             'encryption' => 'ssl',
             'username'   => 'dimalisovoy@limaria.com.ua',
-            'password'   => 'rZg3pVSGNXsA',
+            'password'   => '@AjdUIwnPO293727##%@@',
             'timeout'    => null,
             'auth_mode'  => null,
         ]);
@@ -33,9 +35,17 @@ class ContactController extends Controller
             'name'    => 'Olaba Laboratory',
         ]);
 
-        Mail::raw('Тест Zoho SMTP', function ($message) {
-            $message->to('dima63475@gmail.com')->subject('Проверка Zoho');
-        });
+        try {
+            Mail::raw('Тест Zoho SMTP', function ($message) {
+                $message->to('kreatormaister@gmail.com')->subject('Проверка Zoho');
+            });
+
+            Log::info('yes');
+            return 'yes mail';
+        } catch (\Exception $e) {
+            Log::error('error: ' . $e->getMessage());
+            return 'error: ' . $e->getMessage();
+        }
 
         return 'Письмо отправлено!';
     }

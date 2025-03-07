@@ -238,3 +238,13 @@
 #60 D:\\public_html\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\public_html\\\\...')
 #61 {main}
 "} 
+[2025-03-07 09:53:04] local.DEBUG: From: Olaba Laboratory <dimalisovoy@limaria.com.ua>
+To: your-email@example.com
+Subject: =?utf-8?Q?=D0=9F=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D0=BA=D0=B0?= Zoho
+MIME-Version: 1.0
+Date: Fri, 07 Mar 2025 09:53:04 +0000
+Message-ID: <3a74ec6ca43697f4d1affc65ad9afd3a@limaria.com.ua>
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Тест Zoho SMTP  
